@@ -20,7 +20,3 @@ description: 翻译自purescript作者的gitbook
 
 在只需要一两个小的依赖库的情况下，我们就可以拥有我们需要混合的语言（如：Scala或者Haskell）中的功能。面向对象语言现在主导着行业，但是在Javascript中却明显尴尬。这类似于在高速公路上露营或者穿胶底鞋跳踢踏舞。我们不得不到处`bind`以免`this`从我们眼皮底下突然改变，
 
-
-
-> 译自 [Drboolean](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
-
