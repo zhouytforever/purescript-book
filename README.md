@@ -3,4 +3,4 @@
 
 
 
-> 译自[drboolean] (https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+> 译自 [Drboolean](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
