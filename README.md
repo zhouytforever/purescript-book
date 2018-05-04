@@ -1,4 +1,4 @@
-* 这是一本purescript的入门书
+# 这是一本purescript的入门书
 
 
 
