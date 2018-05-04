@@ -1,0 +1,9 @@
+{
+  "name": "gitbook-purescript",
+  "version": "1.0.0",
+  "description": "翻译的purescript",
+  "main": "index.js",
+  "repository": "git@github.com:zhouytforever/purescript-book.git",
+  "author": "Joyt",
+  "license": "MIT"
+}
